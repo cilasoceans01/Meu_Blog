@@ -1,0 +1,138 @@
+body{
+    background-image: url(./img/Tecnologia.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #c5c9c4;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: auto;
+    margin: 1%;
+}
+
+main{
+    padding: auto;
+    border-radius: 10px;
+    margin: 10%;
+}
+
+.main-container {
+    background-color: white;
+    padding: 1em;
+    background-color: rgba(255, 255, 255, 0.205);
+    border-radius: 5px;
+    backdrop-filter: blur(10px);
+    box-shadow: 1px 1px 1px black;
+}
+
+audio{
+    width: 200px;
+    height: 20px;
+    border-radius: 30%;
+    border: 5px solid #080804; 
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: #c5c9c4;
+    text-decoration: none;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #3b8528;
+}
+
+.center{
+    text-align: center;
+    padding: 0px;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+    padding: 0%;
+}
+
+h1 {
+    color: #c5c9c4;
+}
+
+h3 {
+    color: #c5ba21;
+}
+
+h2 {
+    color: #35ca21;
+}
+
+footer img {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+    width: auto;
+}
+
+footer p {
+    margin-top: 2px;
+    text-align: center !important;
+    display: inline !important;
+}
+
+nav a:hover {
+    color: #6af32a;
+}
+
+h1 {
+    text-align: center;
+    text-indent: 0px;
+}
+
+h2 {
+    text-align: center;
+    text-indent: 0px;
+}
+
+h3 {
+    text-align: center;
+    text-indent: 0px;
+}
+
+h4 {
+    text-align: center;
+    text-indent: 0px;
+}
+
+p {
+    text-align: center;
+    text-indent: 40px;
+}
+
+footer a{
+    text-align: center;
+    text-indent: 20px;
+}
+
+footer a:hover{
+    color: #6af32a;
+}
